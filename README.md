@@ -5,4 +5,6 @@ A short program that takes a string of digit numbers in the form “//[delimiter
 
 Runs on Python 3.7 
 
-Run test by copy pasting following command: python henry_fang_string_calc.py
+Run tests by copy pasting following command: python henry_fang_string_calc.py
+
+To use the program simply call the add() function with your input string as a parameter.
